@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85388196896",
+    "project_id": "ask-oi",
+    "storage_bucket": "ask-oi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85388196896:android:7c3610057e952ba8015045",
+        "android_client_info": {
+          "package_name": "com.example.easychatgpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-C_LmhAghRn1WTcsqy2uKc4jr0v7ISp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

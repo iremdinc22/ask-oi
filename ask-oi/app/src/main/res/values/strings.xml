@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ask.oi</string>
+    <string name="login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_signUp">Click here to Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="write_here">Write here</string>
+    <string name="todo">TODO</string>
+    <string name="ask">Ask.oi</string>
+
+
+</resources>
